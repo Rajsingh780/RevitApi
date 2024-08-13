@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "RevitApi",
+    "description": "Extensions from RevitApi + python series",
+    "author": "Raj Mohan Singh",
+    "author_profile": "https://github.com/Rajsingh780",
+    "url": "https://github.com/Rajsingh780/RevitApi.git",
+    "website": "https://github.com/gtalarico/pyrevitplus",
+    "image": "",
+    "dependencies": []
+}
